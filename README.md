@@ -1,6 +1,7 @@
 Lines Break Paragraph
 =============
 [![install size](https://packagephobia.now.sh/badge?p=line-break-paragraph)](https://packagephobia.now.sh/result?p=line-break-paragraph)
+[![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg)](https://github.com/singhkshitij/line-break-paragraph)
 
 A JavaScript module that converts paragraph to new lines based on fullstops.
 
