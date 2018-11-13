@@ -1,0 +1,31 @@
+{
+  "name": "line-break-paragraph",
+  "version": "1.0.4",
+  "description": "Convert Paragraph to Individual Lines based on fullstops",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/singhkshitij/line-break-paragraph"
+  },
+  "keywords": [
+    "line",
+    "break",
+    "paragraph",
+    "convert",
+    "paragraph",
+    "to",
+    "lines"
+  ],
+  "author": "Kshitij Singh @ikshitijsingh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singhkshitij/line-break-paragraph/issues"
+  },
+  "homepage": "https://github.com/singhkshitij/line-break-paragraph",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
